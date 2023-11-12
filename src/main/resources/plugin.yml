@@ -1,0 +1,4 @@
+name: CustomBoxed
+version: '${project.version}'
+main: me.quartz.customboxed.CustomBoxed
+api-version: '1.20'
