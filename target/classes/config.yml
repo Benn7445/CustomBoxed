@@ -1,0 +1,23 @@
+# Configurable Options
+default-border: 10
+max-border: 100
+apart: 2
+world: "plots"
+
+cost-multiplier: 100
+
+messages:
+  created: "&aPlot has been created."
+  already-plot: "&cYou already have a plot."
+  upgraded: "&aSuccessfully upgraded your plot."
+  cant-upgrade: "&cYou cannot have more as 100x100."
+  reduced: "&aSuccessfully reduced your plot."
+  cant-reduce: "&cYou cannot have less as 10x10."
+  no-money: "&cYou do not have enough money to upgrade."
+
+# Do not edit
+lines-x: 1
+lines-y: 0
+cur-line-x: 0
+cur-line-y: 0
+x: true

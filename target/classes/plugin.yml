@@ -1,5 +1,5 @@
 name: CustomBoxed
-version: '${project.version}'
+version: '1.0-SNAPSHOT'
 main: me.quartz.customboxed.CustomBoxed
 api-version: '1.20'
 commands:
